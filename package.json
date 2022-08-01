@@ -1,0 +1,23 @@
+{
+  "name": "rockwell",
+  "version": "1.0.0",
+  "description": "SDM module exam repo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranitkhamkar/Rockwell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranitkhamkar/Rockwell/issues"
+  },
+  "homepage": "https://github.com/pranitkhamkar/Rockwell#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
